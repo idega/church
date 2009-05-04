@@ -214,8 +214,12 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/ma
       <artifactId>is.idega.idegaweb.egov.xformscase</artifactId>
     </dependency>
     <dependency>
-		<groupId>com.idega.block.egov</groupId>
-		<artifactId>is.idega.idegaweb.egov.church</artifactId>
+	  <groupId>com.idega.block.egov</groupId>
+	  <artifactId>is.idega.idegaweb.egov.church</artifactId>
+    </dependency>
+    <dependency>
+      <groupId>com.idega.block.egov</groupId>
+      <artifactId>is.idega.idegaweb.egov.course</artifactId>
     </dependency>
   </dependencies>
 
